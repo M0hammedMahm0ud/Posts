@@ -21,7 +21,7 @@ body {
     "footer footer";
   height: 100svh;
   max-width: 100svw;
-  background: #070d1a;
+  background: #111;
 }
 header {
   grid-area: header;
