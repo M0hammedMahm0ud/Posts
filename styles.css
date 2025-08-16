@@ -162,6 +162,7 @@ footer {
   font-size: 1.1rem;
   font-weight: bold;
   background-color: #fff;
+  border-radius: 5px 5px 0px 0px;
 }
 footer a {
   color: rgb(54, 54, 54);
