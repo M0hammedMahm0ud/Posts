@@ -71,20 +71,3 @@ input.addEventListener("input", function (e) {
 function whenClick(name) {
   getData(name);
 }
-
-// let wor;
-// let span = document.querySelector("span");
-// function start() {
-//   if (window.Worker != undefined) {
-//     wor = new Worker("worker.js");
-//     wor.postMessage("start");
-//     wor.onmessage = function (e) {
-//       span.innerHTML = e.data;
-//     };
-//   } else {
-//     console.log("welcome");
-//   }
-// }
-// function change() {
-//   wor.terminate();
-// }
