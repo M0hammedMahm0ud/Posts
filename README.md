@@ -1,7 +1,6 @@
 # Posts AJAX Application
 
 A simple AJAX-based web application consisting of HTML, CSS, and JavaScript.
-
 ✨[Live Demo](https://m0hammedmahm0ud.github.io/Posts/)
 
 ## Getting Started
